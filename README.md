@@ -1,11 +1,9 @@
-<center>
 ![](https://www.wujunchao.top/wp-content/uploads/2021/05/图片1.png)
 [![license](https://img.shields.io/badge/author-WuJunchao-purple)](https://github.com/junchaoIU/Canton-KG-React/blob/main/LICENSE)
 [![license](https://img.shields.io/crates/l/rustc-serialize)](https://github.com/junchaoIU/Canton-KG-React/blob/main/LICENSE)
 [![react](https://img.shields.io/badge/react-16.13.1-yellowgreen)](https://github.com/facebook/react)
 [![antd](https://img.shields.io/badge/antd-3.17.0-orange)](https://github.com/ant-design/ant-design)
 [![echart](https://img.shields.io/badge/echart-4.7.0-green)](https://github.com/apache/echarts)
-</center>
 
 ## 🌈简介
 🎉  广州革命历史事件知识图谱系统前端 V1.1.0

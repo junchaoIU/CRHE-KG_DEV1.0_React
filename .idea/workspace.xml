@@ -5,7 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dfa7cbd-da46-473f-9674-59648f8d384d" name="Default Changelist" comment="V1.0" />
+    <list default="true" id="7dfa7cbd-da46-473f-9674-59648f8d384d" name="Default Changelist" comment="V1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,8 +164,16 @@
       <workItem from="1611240358792" duration="1706000" />
       <workItem from="1611737573090" duration="2952000" />
       <workItem from="1613995487587" duration="1842000" />
-      <workItem from="1622270840269" duration="7345000" />
+      <workItem from="1622270840269" duration="15366000" />
     </task>
+    <task id="LOCAL-00001" summary="V1.0">
+      <created>1622296936608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622296936608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,17 +218,21 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1622272700286" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1622296520463">
+    <state x="599" y="286" key="VCS.EditChangelistDialog" timestamp="1622296814526">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1622296520463" />
+    <state x="599" y="286" key="VCS.EditChangelistDialog/0.0.1536.834@0.0.1536.834" timestamp="1622296814526" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1622296972166">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1622296972166" />
     <state x="454" y="277" key="git4idea.rebase.GitRebaseDialog" timestamp="1622294973850">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="454" y="277" key="git4idea.rebase.GitRebaseDialog/0.0.1536.834@0.0.1536.834" timestamp="1622294973850" />
-    <state x="557" y="316" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1622296578108">
+    <state x="557" y="316" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1622296960191">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="557" y="316" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.834@0.0.1536.834" timestamp="1622296578108" />
+    <state x="557" y="316" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.834@0.0.1536.834" timestamp="1622296960191" />
   </component>
 </project>

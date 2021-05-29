@@ -1,17 +1,15 @@
 <center>
-
 ![](https://www.wujunchao.top/wp-content/uploads/2021/05/图片1.png)
 [![license](https://img.shields.io/badge/author-WuJunchao-purple)](https://github.com/junchaoIU/Canton-KG-React/blob/main/LICENSE)
 [![license](https://img.shields.io/crates/l/rustc-serialize)](https://github.com/junchaoIU/Canton-KG-React/blob/main/LICENSE)
 [![react](https://img.shields.io/badge/react-16.13.1-yellowgreen)](https://github.com/facebook/react)
 [![antd](https://img.shields.io/badge/antd-3.17.0-orange)](https://github.com/ant-design/ant-design)
 [![echart](https://img.shields.io/badge/echart-4.7.0-green)](https://github.com/apache/echarts)
-
 </center>
 
 ## 🌈简介
 🎉  广州革命历史事件知识图谱系统前端 V1.1.0
-- 目前该系统已重构至 V2.1.0版本，还未开源（https://www.gzknowledge.cn）
+- 目前该系统已重构至 V2.1.0版本，还未开源（https://www.gzknowledge.cn ）
 - 相对来说V1.1.0版本较为复杂，但部分可视化功能是较为创新的,V2.1.0的功能思路也是基于V1.1.0复现及创新的
 - V1.1.0 版本已不再更新新功能，仅作代码维护和优化，供业界交流
 

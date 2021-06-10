@@ -11,6 +11,18 @@
 - 相对来说V1.1.0版本较为复杂，但部分可视化功能是较为创新的,V2.1.0的功能思路也是基于V1.1.0复现及创新的
 - V1.1.0 版本已不再更新新功能，仅作代码维护和优化，供业界交流
 
+> 该项目阶段性成果论文1：
+> - J. Wu, Y. Jiang, X. Chen, et al. "The Canton Canon" Digital Library Based on Knowledge
+Graph - Taking the Revolutionary Archives of Canton in the Republic of China as an Example. [C]// 2021 10th International Conference on Educational and Information Technology (ICEIT),2021: 171-179.
+> - DOI: 10.1109/ICEIT51700.2021.9375538
+> - 索引平台：IEEE, EI, scopus
+
+> 该项目阶段性成果论文2：
+> - 基于知识图谱的民国革命历史时空模型构建与应用
+> - （在投）
+
+> 项目的其他核心代码会逐渐开源（包括本体构建等）
+
 ## ✨功能
 - 知识检索：知识检索提供广州革命历史领域的相关信息检索，同时，提供知识树并支持模糊检索功能。
 - 关系检索：关系检索主要提供两个知识点之间的关系检索查询，进行任意两个知识点间关系的探索。

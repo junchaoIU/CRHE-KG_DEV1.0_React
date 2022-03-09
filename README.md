@@ -75,7 +75,7 @@ This system is implemented by the SpringBoot + React technology stack separated 
 git clone https://github.com/junchaoIU/CRHE-KG_DEV1.0_React.git
 
 # 进入项目目录
-cd Canton-KG-React
+cd CRHE-KG_DEV1.0_React
 
 # 安装依赖（不要用cnpm）
 npm install

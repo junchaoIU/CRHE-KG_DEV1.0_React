@@ -1,4 +1,4 @@
-# GRHE-KG: Guangzhou Revolutionary Historical Event Knowledge Graph Information System
+# CRHE-KG: Canton Revolutionary Historical Event Knowledge Graph Information System
 
 ![](https://www.wujunchao.top/wp-content/uploads/2021/05/图片1.png)
 [![license](https://img.shields.io/crates/l/rustc-serialize)](https://github.com/junchaoIU/Canton-KG-React/blob/main/LICENSE)
@@ -7,8 +7,11 @@
 [![echart](https://img.shields.io/badge/echart-4.7.0-green)](https://github.com/apache/echarts)
 
 ---
+> The development and maintenance of the project takes a lot of time. If my project is helpful to you, if you are interested in my project, please give me a star, thank you!
+> （项目的开发和维护需要花费较多的时间，如果我的项目对你有帮助，如果你对我的项目感兴趣,请帮我点个⭐star，谢谢！）🍉
+
 ## 🌈 Introduction（简介）
-**<big>GRHE-KG： 广州革命历史事件知识图谱信息系统前端（React） V1.0</big>**
+**<big>CRHE-KG： 广州革命历史事件知识图谱信息系统前端Dev1.0_React</big>**
 
 Since entering the 21st century, the state has made great efforts in the protection of revolutionary historical documents and the restoration of documents in the Republic of China. Substantial achievements have been gradually achieved in the protection of existing precious historical documents. On this basis, how to effectively The development of such a huge historical archives resource is the next problem to be solved urgently.
 
@@ -85,18 +88,29 @@ npm start
 ```
 
 ## 🌸 About Author（关于作者）
- WU, JUNCHAO
+[WU, JUNCHAO](https://github.com/junchaoIU)
 
 个人博客（Blog）：[春天与爱情の樱花🌸](https://www.wujunchao.top)
 
+如遇到问题，请致邮（Email）：wujunchaoIU@outlook.com
+
 ## 📕 Paper Citation（论文引用）
-If you reference or use the results of this project in your research, please cite in the following format（如果你在研究过程中参考或用到了本项目的成果，请按以下格式引用）:
+If you reference or use the results of this project in your research, please cite in the following format:
+
+如果你在研究过程中参考或用到了本项目的成果，请按以下格式引用:
 ```
 J. Wu, Y. Jiang, X. Chen, et al. "The Canton Canon" Digital Library Based on Knowledge Graph - Taking the Revolutionary Archives of Canton in the Republic of China as an Example. [C]// 2021 10th International Conference on Educational and Information Technology (ICEIT), IEEE, 2021: 171-179.
 ```
 
-> 项目的开发和维护需要花费较多的时间，如果我的项目对你有帮助，如果你对我的项目感兴趣,请帮我点个小星星star，感激！🍉
 
+## 🍉 其他相关项目
+
+- 📚 CRH-KG 中国革命历史知识图谱数字图书馆前端Dev2.0_React版本
+- https://github.com/junchaoIU/CantonKG_DEV2.0_React
+- 📚 CRHE-KG 广州革命历史知识图谱数字图书馆后端V1.0
+- https://github.com/Chen-X666/canton
+- 📚 protegeAuto_tool（面向Protege的开源Python包）
+  https://github.com/junchaoIU/protegeAuto_tool
 
 
 

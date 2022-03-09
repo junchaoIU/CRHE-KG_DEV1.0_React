@@ -102,14 +102,17 @@ If you reference or use the results of this project in your research, please cit
 J. Wu, Y. Jiang, X. Chen, et al. "The Canton Canon" Digital Library Based on Knowledge Graph - Taking the Revolutionary Archives of Canton in the Republic of China as an Example. [C]// 2021 10th International Conference on Educational and Information Technology (ICEIT), IEEE, 2021: 171-179.
 ```
 
+# ❗ 声明
+- 本系统已登记软著，可供参考及实验借鉴，或者自己部署玩玩
+- 本项目不可做商业用途，或者直接套用系统作为课题科研成果
 
 ## 🍉 其他相关项目
 
-- 📚 CRH-KG 中国革命历史知识图谱数字图书馆前端Dev2.0_React版本
-- https://github.com/junchaoIU/CRH-KG_DEV2.0_React
-- 📚 CRHE-KG 广州革命历史知识图谱数字图书馆后端V1.0
-- https://github.com/Chen-X666/canton
-- 📚 protegeAuto_tool（面向Protege的开源Python包）
+1. 📚 CMRH-KG 中国革命历史知识图谱数字图书馆前端DEV2.0_React版本
+- https://github.com/junchaoIU/CMRH-KG_DEV2.0_React
+2. 📚 CMRH-KG 中国近代革命历史知识图谱数字图书馆后端V1.0
+- https://github.com/Chen-X666/CMRH-KG_DEV1.0_SpringBoot
+3. 📚 protegeAuto_tool（面向Protege的开源Python包）
 - https://github.com/junchaoIU/protegeAuto_tool
 
 

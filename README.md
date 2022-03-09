@@ -7,8 +7,8 @@
 [![echart](https://img.shields.io/badge/echart-4.7.0-green)](https://github.com/apache/echarts)
 
 ---
-## 🌈Introduction（简介）
-GRHE-KG： 广州革命历史事件知识图谱信息系统前端（React） V1.0
+## 🌈 Introduction（简介）
+**<big>GRHE-KG： 广州革命历史事件知识图谱信息系统前端（React） V1.0</big>**
 
 Since entering the 21st century, the state has made great efforts in the protection of revolutionary historical documents and the restoration of documents in the Republic of China. Substantial achievements have been gradually achieved in the protection of existing precious historical documents. On this basis, how to effectively The development of such a huge historical archives resource is the next problem to be solved urgently.
 
@@ -22,7 +22,7 @@ This system is implemented by the SpringBoot + React technology stack separated 
 
 本系统采用前后端分离的 SpringBoot + React 技术栈实现，当前项目为系统的前端V1.0版本，采用React技术框架实现，目前该项目已重构至 V2.0版本（https://www.gzknowledge.cn），详见：https://github.com/junchaoIU/CantonKG_DEV2.0_React 。相对来说 V1.0版本较为复杂，但部分可视化功能是较为创新的,V2.0的功能思路也是基于V1.0复现及创新的。V1.0 版本已不再更新新功能，仅作代码维护和优化，供业界交流。
 
-## ✨Interface Function（接口功能）
+## ✨ Interface Function（接口功能）
 - 知识检索（Knowledge Retrieval）
 - 关系检索（Relational Retrieval）
 - 时空检索（Spatio-temporal Information）
@@ -37,7 +37,7 @@ This system is implemented by the SpringBoot + React technology stack separated 
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | IE11, Edge                                                   | last 2 versions                                              | last 2 versions                                              | last 2 versions                                              | last 2 versions                                              |
 
-## ⚙目录结构
+## ⚙ Directory Structure（目录结构）
 ```bash
 ├─ public                     # 静态资源
 │   ├─ logo.ico               # logo图标
@@ -84,12 +84,12 @@ npm install --registry=https://registry.npm.taobao.org
 npm start
 ```
 
-## 🌸About Author（关于作者）
+## 🌸 About Author（关于作者）
  WU, JUNCHAO
 
 个人博客（Blog）：[春天与爱情の樱花🌸](https://www.wujunchao.top)
 
-## Paper citations（论文引用）
+## 📕 Paper Citation（论文引用）
 If you reference or use the results of this project in your research, please cite in the following format（如果你在研究过程中参考或用到了本项目的成果，请按以下格式引用）:
 ```
 J. Wu, Y. Jiang, X. Chen, et al. "The Canton Canon" Digital Library Based on Knowledge Graph - Taking the Revolutionary Archives of Canton in the Republic of China as an Example. [C]// 2021 10th International Conference on Educational and Information Technology (ICEIT), IEEE, 2021: 171-179.

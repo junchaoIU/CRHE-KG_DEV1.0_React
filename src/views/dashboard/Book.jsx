@@ -1,5 +1,5 @@
 import React,{Component} from "react";
-import {Tabs,List, Avatar, BackTop} from 'antd';
+import {Tabs,List, Avatar } from 'antd';
 const { TabPane } = Tabs;
 const data = [
     {
@@ -77,7 +77,7 @@ class Book extends Component{
                                 <List.Item>
                                     <List.Item.Meta
                                         avatar={<Avatar src={item.url} alt="暂无图片" style={{width:"100px" , height:"160px"}} shape="square"/>}
-                                        title={<a href={item.href} target ="_blank">{item.title}</a>}
+                                        title={<a href={item.href} target ="_blank" rel="noopener noreferrer">{item.title}</a>}
                                         description={item.content}
                                         style={{height:"160px"}}
                                     />

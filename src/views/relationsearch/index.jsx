@@ -78,6 +78,8 @@ class Relationsearch extends React.Component{
                     this.setState({realationshipData})
                     break;
                 }
+                default:
+                    break;
             }
         })
         keywordList(value1).then((response) => {

@@ -1,12 +1,10 @@
 import React from "react";
-import axios from 'axios';
 import "driver.js/dist/driver.min.css"; // import driver.js css
-import { treeList,keywordList,attributekList } from "@/api/knowledgeSearch";
+import { keywordList,attributekList } from "@/api/knowledgeSearch";
 import "./index.less";
 import catalogData from "./catalog"
 import { Tree,Spin, Input } from 'antd';
 const { Search } = Input;
-const { DirectoryTree } = Tree;
 
 const getParentKey = (key, tree) => {
     let parentKey;

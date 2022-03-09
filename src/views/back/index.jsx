@@ -9,9 +9,6 @@ const Svg2 = () => (
 const Svg3 = () => (
     <span className="iconfont" >&#xe600;</span>
 )
-const Svg4 = () => (
-    <span className="iconfont" >&#xe624;</span>
-)
 
 class Back extends React.Component{
 

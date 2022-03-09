@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, Avatar,Tag,Carousel,Tabs,Collapse,Pagination} from 'antd';
+import { Card, Avatar,Tag,Tabs,Collapse} from 'antd';
 import Text from "./Text";
 const { Meta } = Card;
 const { TabPane } = Tabs;

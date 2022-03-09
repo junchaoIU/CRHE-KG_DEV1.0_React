@@ -1,6 +1,6 @@
 import React from "react";
 import "driver.js/dist/driver.min.css"; // import driver.js css
-import {Avatar, Drawer, List, Card, Button, Empty,Pagination} from 'antd';
+import {Avatar, Drawer, List, Card, Button, Empty} from 'antd';
 
 const gridStyle = {
     width: '100%',

@@ -1,5 +1,5 @@
 {
-  "name": "guangzhou-history-knowledgeGraph",
+  "name": "GRHE-KG",
   "version": "1.0.0",
   "author": "CC",
   "license": "MIT",
@@ -55,8 +55,8 @@
   },
   "eslintConfig": {
     "extends": "react-app",
-    "rules":{
-      "jsx-a11y/anchor-is-valid":"off"
+    "rules": {
+      "jsx-a11y/anchor-is-valid": "off"
     }
   },
   "browserslist": {
@@ -85,5 +85,5 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "proxy": "http://39.101.193.14:2222/"
+  "proxy": "http://www.gzknowledge.cn:2222/"
 }

@@ -1,9 +1,8 @@
 import React, { Component } from "react";
 import "./index.less";
-import { lucene2List } from "@/api/lucene";
+// import { lucene2List } from "@/api/lucene";
 import { luceneList } from "@/api/lucene";
-import {PageHeader, Avatar, Drawer, Input, List, Card, Button, Form, Collapse, Tabs, Empty, Spin,Pagination} from 'antd';
-import CenterArea from "../peopleback/CenterArea";
+import {PageHeader, Avatar, Drawer, Input, List, Card, Button, Form, Collapse, Tabs, Empty, Spin} from 'antd';
 const { Search } = Input;
 const { Panel } = Collapse;
 const { TabPane } = Tabs;

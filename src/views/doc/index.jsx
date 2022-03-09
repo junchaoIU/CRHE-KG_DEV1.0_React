@@ -25,8 +25,6 @@ import doc22 from "../../assets/images/广州革命历史事件知识图谱系�
 import doc23 from "../../assets/images/广州革命历史事件知识图谱系统使用手册/0023.jpg"
 import doc24 from "../../assets/images/广州革命历史事件知识图谱系统使用手册/0024.jpg"
 
-import TypingCard from '@/components/TypingCard'
-import Markdown from "../../components/Markdown";
 const { Link } = Anchor;
 
 class Doc extends React.Component {

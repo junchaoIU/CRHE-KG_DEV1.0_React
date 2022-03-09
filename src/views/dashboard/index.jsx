@@ -2,20 +2,18 @@ import React, { Component } from "react";
 import BannerAnim, { Element } from 'rc-banner-anim';
 import TweenOne from 'rc-tween-one';
 import Area from "./Area";
-import Thing from "./Thing"
+// import Thing from "./Thing"
 import Book from "./Book"
 import CountUp from "react-countup";
 import {countList} from "@/api/dashboard"
 import "../../assets/iconfont/iconfont.css"
 import 'rc-banner-anim/assets/index.css';
-import Driver from "driver.js"; // import driver.js
+// import Driver from "driver.js"; // import driver.js
 import "driver.js/dist/driver.min.css"; // import driver.js css
 import "./index.less";
-import {Button,Tabs,Timeline} from "antd";
-import { Row,Col,Card,Avatar,BackTop ,Statistic} from 'antd';
-import {FundViewOutlined,ForkOutlined,SearchOutlined,DeploymentUnitOutlined,FundProjectionScreenOutlined} from '@ant-design/icons'
-import TypingCard from '@/components/TypingCard'
-import steps from "./steps";
+import {Tabs} from "antd";
+import { Row,Col,Card,Avatar,BackTop} from 'antd';
+// import steps from "./steps";
 import schoolStone from '../../assets/images/schoolStone.jpg';
 import banner01 from '../../assets/images/banner01.jpg';
 const { Meta } = Card;
@@ -28,24 +26,19 @@ const { TabPane } = Tabs;
                 </Button>*/
 
 
-const cardContent = ` 
-    PS：第一次使用该系统，可点击下方新手引导了解一些小细节喔~
-  `
-const driver = new Driver({
-    animate: true, // 在更改突出显示的元素时是否设置动画，
-    // 当header的position为fixed时，会覆盖元素，这是driver.js的bug，
-    // 详细内容见https://github.com/kamranahmedse/driver.js/issues/97
-    opacity: 0.75, // 背景不透明度（0表示只有弹出窗口，没有覆盖）
-    doneBtnText: "完成", // 最后一个按钮上的文本
-    closeBtnText: "关闭", // 此步骤的“关闭”按钮上的文本
-    nextBtnText: "下一步", // 此步骤的下一步按钮文本
-    prevBtnText: "上一步", // 此步骤的上一个按钮文本
-});
-
-const guide = function () {
-    driver.defineSteps(steps);
-    driver.start();
-};
+// const cardContent = `
+//     PS：第一次使用该系统，可点击下方新手引导了解一些小细节喔~
+//   `
+// const driver = new Driver({
+//     animate: true, // 在更改突出显示的元素时是否设置动画，
+//     // 当header的position为fixed时，会覆盖元素，这是driver.js的bug，
+//     // 详细内容见https://github.com/kamranahmedse/driver.js/issues/97
+//     opacity: 0.75, // 背景不透明度（0表示只有弹出窗口，没有覆盖）
+//     doneBtnText: "完成", // 最后一个按钮上的文本
+//     closeBtnText: "关闭", // 此步骤的“关闭”按钮上的文本
+//     nextBtnText: "下一步", // 此步骤的下一步按钮文本
+//     prevBtnText: "上一步", // 此步骤的上一个按钮文本
+// });
 
 const BgElement = Element.BgElement;
 

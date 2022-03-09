@@ -1,6 +1,6 @@
 import React from "react";
 import CenterGraph from "./CenterGraph";
-import {PageHeader,Typography,Divider} from 'antd';
+import {PageHeader,Typography} from 'antd';
 const { Paragraph } = Typography;
 
 class CenterArea extends React.Component{

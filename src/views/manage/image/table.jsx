@@ -13,16 +13,6 @@ import { tableList, deleteImage} from "@/api/table";
 const { Column } = Table;
 const { Panel } = Collapse;
 
-function confirm(e) {
-  console.log(e);
-  message.success('Click on Yes');
-}
-
-function cancel(e) {
-  console.log(e);
-  message.error('Click on No');
-}
-
 class TableComponent extends Component {
   _isMounted = false; // 这个变量是用来标志当前组件是否挂载
   state = {

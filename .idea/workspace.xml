@@ -5,9 +5,35 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dfa7cbd-da46-473f-9674-59648f8d384d" name="Default Changelist" comment="V1.0">
+    <list default="true" id="7dfa7cbd-da46-473f-9674-59648f8d384d" name="Default Changelist" comment="fix warning and proxy and update info">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/back/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/back/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboard/Book.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/dashboard/Book.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboard/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/dashboard/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/doc/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/doc/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/knowledgesearch/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/knowledgesearch/Card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/knowledgesearch/TreeSearch.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/knowledgesearch/TreeSearch.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/knowledgesearch/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/knowledgesearch/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/layout/Header/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/Header/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/layout/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/manage/image/table.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/manage/image/table.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/peopleback/Backechart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/peopleback/Backechart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/relationsearch/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/relationsearch/Card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/relationsearch/CenterArea.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/relationsearch/CenterArea.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/relationsearch/Text.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/relationsearch/Text.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/relationsearch/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/relationsearch/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/textback/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/textback/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/thingback/Backechart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/thingback/Backechart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/thingback/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/thingback/Card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/timespacesearch/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/timespacesearch/Card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/timespacesearch/CenterArea.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/timespacesearch/CenterArea.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/timespacesearch/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/timespacesearch/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +57,9 @@
       </set>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1eXwybFTZJqLbLSh7zSh7RDJbjB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,14 +73,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="D:\软件\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -79,6 +111,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -165,6 +198,7 @@
       <workItem from="1611737573090" duration="2952000" />
       <workItem from="1613995487587" duration="1842000" />
       <workItem from="1622270840269" duration="15366000" />
+      <workItem from="1646797313540" duration="12655000" />
     </task>
     <task id="LOCAL-00001" summary="V1.0">
       <created>1622296936608</created>
@@ -177,7 +211,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -195,44 +229,15 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1.0" />
+    <MESSAGE value="fix bug and update info" />
+    <MESSAGE value="fix warning and proxy and update info" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix warning and proxy and update info" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="651" y="279" key="#Notifications" timestamp="1622294926734">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="651" y="279" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1622294926734" />
-    <state x="556" y="316" key="GitRewordDialog" timestamp="1622272946145">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="556" y="316" key="GitRewordDialog/0.0.1536.834@0.0.1536.834" timestamp="1622272946145" />
-    <state x="365" y="483" key="Github.ShareDialog" timestamp="1622296685996">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="365" y="483" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1622296685996" />
-    <state x="270" y="61" key="SettingsEditor" timestamp="1622272700286">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1622272700286" />
-    <state x="599" y="286" key="VCS.EditChangelistDialog" timestamp="1622296814526">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="599" y="286" key="VCS.EditChangelistDialog/0.0.1536.834@0.0.1536.834" timestamp="1622296814526" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1622296972166">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1622296972166" />
-    <state x="454" y="277" key="git4idea.rebase.GitRebaseDialog" timestamp="1622294973850">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="454" y="277" key="git4idea.rebase.GitRebaseDialog/0.0.1536.834@0.0.1536.834" timestamp="1622294973850" />
-    <state x="557" y="316" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1622296960191">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="557" y="316" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.834@0.0.1536.834" timestamp="1622296960191" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

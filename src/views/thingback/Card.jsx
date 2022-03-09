@@ -1,8 +1,7 @@
 import React from "react";
 import { luceneList } from "@/api/lucene";
-import {Collapse, Card, Avatar, Tag, Timeline, Tabs, Empty, Icon, List, Button, Drawer,Spin,Pagination} from 'antd';
+import {Card, Avatar, Tag, Timeline, Tabs, Empty, Icon, List, Button, Drawer,Spin,Pagination} from 'antd';
 const { Meta } = Card;
-const { Panel } = Collapse;
 const { TabPane } = Tabs;
 
 const gridStyle = {

@@ -1,6 +1,6 @@
 import React from "react";
 import CenterArea from "./CenterArea";
-import {Button, Radio, Col, Collapse, Form, Input, InputNumber, Row, Spin} from "antd"
+import {Button, Radio, Col, Collapse, Form, Input, Row, Spin} from "antd"
 import { timeList,timesList,spaceList,timespaceList,timeCommentList,timesCommentList,spaceCommentList,timespaceCommentList } from "@/api/timespace";
 import "./index.less";
 import TimeSpaceCard from "./Card";

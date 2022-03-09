@@ -3,14 +3,9 @@ import { PropTypes } from "prop-types";
 import { connect } from "react-redux";
 import echarts from "@/lib/echarts";
 import { debounce } from "@/utils";
-import {Switch} from "antd"
 
 class Backechart extends Component {
 
-
-    constructor(props) {
-        super(props);
-    }
     static propTypes = {
         width: PropTypes.string,
         height: PropTypes.string,

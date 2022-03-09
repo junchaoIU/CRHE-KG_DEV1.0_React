@@ -1,11 +1,8 @@
 import React from "react";
 import { luceneList } from "@/api/lucene";
-import {Avatar, Button, Card, Drawer, List, Tabs, Tag, Timeline, Collapse, Icon, Empty, Spin,Pagination} from 'antd';
+import {Avatar, Button, Card, Drawer, List, Tabs, Tag, Timeline, Icon, Empty, Spin,Pagination} from 'antd';
 import "./index.less";
-import {attributekList} from "@/api/knowledgeSearch";
 const { TabPane} = Tabs;
-const { Meta } = Card;
-const { Panel } = Collapse;
 
 function callback(key) {
     console.log(key);

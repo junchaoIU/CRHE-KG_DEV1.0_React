@@ -3,7 +3,6 @@ import { Provider } from "react-redux";
 import { ConfigProvider } from "antd";
 import zhCN from "antd/es/locale/zh_CN";
 import store from "./store";
-import Layout from "@/views/layout";
 import Router from "./router";
 
 class App extends Component {

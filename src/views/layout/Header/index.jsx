@@ -1,24 +1,20 @@
 import React from "react";
 import { connect } from "react-redux";
-import { Icon, Menu, Dropdown, Modal, Layout, Avatar,Divider,Button,Drawer } from "antd";
+import { Icon, Menu, Dropdown, Modal, Layout, Avatar, Divider} from "antd";
 import { Link } from "react-router-dom";
 import { logout, getUserInfo } from "@/store/actions";
 import UpdataList from  "./upDataList"
 import FullScreen from "@/components/FullScreen";
-import Settings from "@/components/Settings";
 import Logo from '../Sider/Logo/index';
-import menuList from "@/config/menuConfig";
-import Hamburger from "@/components/Hamburger";
-import BreadCrumb from "@/components/BreadCrumb";
 import "./index.less";
 const { Header } = Layout;
 
 const Svg1 = () => (
     <span className="iconfont" >&#xe602;</span>
 )
-const Svg2 = () => (
-    <span className="iconfont" >&#xe66d;</span>
-)
+// const Svg2 = () => (
+//     <span className="iconfont" >&#xe66d;</span>
+// )
 const Svg3 = () => (
     <span className="iconfont" >&#xe600;</span>
 )
@@ -41,7 +37,6 @@ const LayoutHeader = (props) => {
     sidebarCollapsed,
     logout,
     getUserInfo,
-    showSettings,
     fixedHeader,
   } = props;
   token && getUserInfo(token);

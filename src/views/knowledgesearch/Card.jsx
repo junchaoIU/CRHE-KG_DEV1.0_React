@@ -1,5 +1,5 @@
 import React from "react";
-import {Avatar, Button, Card, Drawer, List, Tabs, Tag,Empty,Icon,Checkbox,Spin,Pagination} from 'antd';
+import {Avatar, Button, Card, Drawer, List, Tabs, Tag,Empty, Checkbox,Spin} from 'antd';
 import "./index.less";
 import {FileSearchOutlined} from "@ant-design/icons";
 import { luceneList } from "@/api/lucene";

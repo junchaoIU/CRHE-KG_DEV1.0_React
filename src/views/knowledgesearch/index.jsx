@@ -3,7 +3,7 @@ import TreeSearch from "./TreeSearch";
 import CenterArea from "./CenterArea";
 import KnowledgeCard from "./Card";
 import {keywordList,attributekList,optionList} from "@/api/knowledgeSearch";
-import {Col, Row, Button, Form, Input, Collapse, Select, Spin} from "antd"
+import {Col, Row, Button, Form, Collapse, Select, Spin} from "antd"
 import "./index.less";
 const { Panel } = Collapse;
 

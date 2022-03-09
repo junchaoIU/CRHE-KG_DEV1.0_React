@@ -11,7 +11,7 @@
 > （项目的开发和维护需要花费较多的时间，如果我的项目对你有帮助，如果你对我的项目感兴趣,请帮我点个⭐star，谢谢！）🍉
 
 ## 🌈 Introduction（简介）
-**<big>CRHE-KG： 广州革命历史事件知识图谱信息系统前端Dev1.0_React</big>**
+**<big>CRHE-KG： 广州革命历史事件知识图谱信息系统前端DEV1.0_React</big>**
 
 Since entering the 21st century, the state has made great efforts in the protection of revolutionary historical documents and the restoration of documents in the Republic of China. Substantial achievements have been gradually achieved in the protection of existing precious historical documents. On this basis, how to effectively The development of such a huge historical archives resource is the next problem to be solved urgently.
 
@@ -106,11 +106,11 @@ J. Wu, Y. Jiang, X. Chen, et al. "The Canton Canon" Digital Library Based on Kno
 ## 🍉 其他相关项目
 
 - 📚 CRH-KG 中国革命历史知识图谱数字图书馆前端Dev2.0_React版本
-- https://github.com/junchaoIU/CantonKG_DEV2.0_React
+- https://github.com/junchaoIU/CRH-KG_DEV2.0_React
 - 📚 CRHE-KG 广州革命历史知识图谱数字图书馆后端V1.0
 - https://github.com/Chen-X666/canton
 - 📚 protegeAuto_tool（面向Protege的开源Python包）
-  https://github.com/junchaoIU/protegeAuto_tool
+- https://github.com/junchaoIU/protegeAuto_tool
 
 
 
